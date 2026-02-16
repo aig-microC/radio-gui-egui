@@ -1,0 +1,9 @@
+[package]
+name = "radio-gui"
+version = "1.0.0"
+edition = "2024"
+license = "MIT"
+
+[dependencies]
+eframe = "0.33.3"
+chrono = "0.4"

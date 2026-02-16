@@ -1,0 +1,51 @@
+#EXTM3U
+
+#EXTINF:-1,RNE - R1
+https://f111.rndfnk.com/star/crtve/rne1/mad/mp3/128/ct/stream.mp3?cid=01GEM7S23A9B744SKFN04XA893&sid=2xJc1EPDKHRuDdjgcjNMW8H44lZ&token=HxfgpZ_8PhSKtNm8HZhoDzV4gXONFuFBbBsbceoWw9k&tvf=OJ__G5wCQRhmMTExLnJuZGZuay5jb20
+
+#EXTINF:-1,RNE - R5
+https://f131.rndfnk.com/star/crtve/rne5/mad/mp3/128/stream.mp3?cid=01GEP4QN2TSXQQDS2JQA783NYX&sid=2xJp5t3nUY3CEAhxjMGoRAtNk6x&token=gRyCFgmd7_1yOT-L-xoKdejvPPmEKsP73CgemtWJUPk&tvf=BEn0AXoIQRhmMTMxLnJuZGZuay5jb20
+
+#EXTINF:-1,BBC World Service
+http://stream.live.vc.bbcmedia.co.uk/bbc_world_service
+
+#EXTINF:-1,NPR 24 Hour Program Stream
+http://npr-ice.streamguys1.com/live.mp3
+
+#EXTINF:-1,ABC News Radio MP3
+http://live-radio01.mediahubaustralia.com/PBW/mp3/
+
+#EXTINF:-1,RFI Monde
+http://live02.rfi.fr/rfimonde-96k.mp3
+
+#EXTINF:-1,France Info
+http://icecast.radiofrance.fr/franceinfo-midfi.mp3
+
+#EXTINF:-1,france inter
+http://icecast.radiofrance.fr/franceinter-midfi.mp3
+
+#EXTINF:-1,ICI Radio-Canada Première Montréal
+https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/playlist.m3u8
+
+#EXTINF:-1,101 SMOOTH JAZZ MELLOW MIX
+http://ais-edge90-dal03.cdnstream.com/b48071_128mp3
+
+#EXTINF:-1,ABC Lounge Jazz
+https://eu1.fastcast4u.com/proxy/kpmxz/stream
+
+#EXTINF:-1,Instrumental Jazz
+https://jfm1.hostingradio.ru:14536/ijstream.mp3
+
+#EXTINF:-1,Instrumentals Forever
+http://quincy.torontocast.com:1910/stream
+
+#EXTINF:-1,Jazz Lounge
+https://jazzlounge.ice.infomaniak.ch/jazzlounge-high.mp3
+
+#EXTINF:-1,Smooth Jazz 247
+http://ais-edge89-dal02.cdnstream.com/b75154_128mp3
+
+#EXTINF:-1,Total instrumental
+http://total-instrumental.stream.laut.fm/total-instrumental?t302=2025-05-19_00-10-32&uuid=cd3619da-449b-42d8-8c2e-76e6b2d84c96
+
+
